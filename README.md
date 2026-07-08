@@ -37,9 +37,6 @@ If you prefer running it locally on your machine:
 
 ```text
 historical-timeline/
-├── .github/
-│   └── workflows/
-│       └── ci.yml          # GitHub Actions layout validator
 ├── Assets/
 │   └── .gitkeep            # Binary image directory asset mount point
 ├── .gitignore              # Environment configuration exclusions
