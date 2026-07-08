@@ -48,3 +48,10 @@ historical-timeline/
 ├── LICENSE                 # MIT License file
 ├── README.md               # Repository documentation
 └── index.html              # Main application source code
+```
+## Roadmap
+[ ] Add explicit media query breakpoints for ultra-high-definition 4K screens.
+
+[ ] Migrate raw CSS formatting sections to a dedicated component sheet (style.css).
+
+[ ] Integrate a clean toggle switch to filter by individual biographical profiles dynamically.
