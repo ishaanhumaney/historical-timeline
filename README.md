@@ -1,5 +1,3 @@
-# historical-timeline
-A clean, responsive single-page web document charting the biographical timelines of Adolf Hitler and his immediate family members.
 # Historical Profile: Adolf Hitler & Family
 
 A responsive, single-page semantic web document that aggregates and organizes chronological historical data regarding the biographical timelines of Adolf Hitler and his immediate family members.
